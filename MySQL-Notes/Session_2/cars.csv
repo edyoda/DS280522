@@ -1,0 +1,9 @@
+car_id,model,color,car_size,last_driven
+1,"fiat 500",white,S,10
+2,lamborgini,green,L,200
+3,ferrari,black,M,10
+4,"ford GT",blue,S,50
+5,"VW Polo",pink,S,0
+6,"Maruti Brezza",red,M,5
+7,"Mercedes C class",white,XL,200
+8,"BMW i8",blue,M,15

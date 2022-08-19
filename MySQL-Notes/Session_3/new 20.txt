@@ -1,0 +1,59 @@
+Sorting
+Limit & Offsets
+Update Queries
+Alter Table
+Indexes in MySQL
+Selection Examples
+String Functions
+Aggregate Functions
+Introduction to Joins in MySQL
+
+
+SELECT * FROM books;
+
+
+-- ORDER BY
+
+SELECT * FROM books ORDER BY pages, stock_quantity DESC;
+
+--LIMIT and OFFSETS
+SELECT * FROM books limit 3 offset 2;
+
+--UPDATE Queries
+
+UPDATE books
+SET pages = 500
+WHERE pages>300;
+
+
+
+UPDATE books
+SET pages = 500;
+
+-- Alter Table
+
+ALTER TABLE name_of_table
+ADD name_of_new_column details_of_column
+[ FIRST | AFTER name_of_existing_column ];
+
+-- add new COLUMN
+
+ALTER TABLE books
+ADD edition INTEGER NOT NULL DEFAULT 1;
+
+-- ALTER TABLE statement with DROP command
+ALTER TABLE name_of_table
+DROP COLUMN name_of_column_to_drop;
+
+
+-- ALTER TABLE statement with CHANGE command to rename column names
+
+ALTER TABLE name_of_table
+CHANGECOLUMN old_name_of_column new_name_of_column details_of_column
+[ FIRST | AFTER name_of_existing_column ];
+
+
+-- ALTER TABLE statement to rename table
+
+ALTER TABLE new_table_name
+RENAME TO new_table_name;

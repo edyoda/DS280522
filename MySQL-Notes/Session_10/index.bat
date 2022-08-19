@@ -1,0 +1,1 @@
+call "C:\Users\khemr\anaconda3\Scripts\activate.bat"

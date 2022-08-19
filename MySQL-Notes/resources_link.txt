@@ -1,0 +1,24 @@
+session_data 
+https://docs.google.com/document/d/1LtYUsRnuhMtZ1o35TulIWlvh_jKEfk2ua_Q6IBOKG7M/edit
+
+MySql Documentation
+https://dev.mysql.com/doc/workbench/en/
+
+Google Slides 
+https://docs.google.com/presentation/d/1KTbV2ZoRcEVzTHr-dGAO99_p5hLIlunexKcP8cjUq98/edit?usp=sharing
+ALTER Table will be updated soon
+
+Useful Study Material
+https://beginnersbook.com/2015/04/view-in-dbms/
+
+
+Databases Links
+https://dev.mysql.com/doc/index-other.html  
+
+https://www.mysqltutorial.org/mysql-sample-database.aspx
+
+
+# 3 Tier Architecure
+
+https://app.diagrams.net/#G1DIpNhksyFmaDmgX9PLR6-EM76S0kDHjE
+

@@ -1,0 +1,13 @@
+Why views?
+Views can be effective copies of base tables.
+Views can have column names and expressions.
+You can use any clauses in views.
+Views can be used in INSERT/UPDATE/DELETE.
+Views can contain expressions in the select list.
+Views can be views of views.
+
+
+
+Views SQL queries
+
+
