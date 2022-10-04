@@ -1,2 +1,7 @@
 mysql windows installer - https://dev.mysql.com/downloads/installer/
 
+check requirements - 
+visual studio downloads - https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+installation guide slide - https://docs.google.com/presentation/d/1KTbV2ZoRcEVzTHr-dGAO99_p5hLIlunexKcP8cjUq98/edit#slide=id.g84447287e0_3_1
+
