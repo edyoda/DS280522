@@ -25,8 +25,8 @@ INSERT INTO customer (customerID,FName,LName,FullName,Age) VALUES(1102,'Joe','Do
 INSERT INTO customer (customerID,FName,LName,FullName,Age) VALUES(2435,'Boy','George','Boy George',34);
 
 INSERT INTO customer (customerID,FName,LName,FullName,Age) VALUES(1245,'Tim','Walter','Tim Walter',45);
-INSERT INTO customer (customerID,FName,LName,FullName,Age) VALUES(1001,'Alex','Bowde','Alex Bowde',14);
-INSERT INTO customer (customerID,FName,LName,FullName,Age) VALUES(1001,'Alex','Bowde','Alex Bowde',14);
+INSERT INTO customer (customerID,FName,LName,FullName,Age) VALUES(1256,'Alice','Croe','Alice Croe',24);
+INSERT INTO customer (customerID,FName,LName,FullName) VALUES(2235,'Sam','Xu','Sam Xu');
 
 
 
